@@ -58,7 +58,7 @@ msgstr "Mã khoá Google Places API"
 #. odoo-javascript
 #: code:addons/website_sale_autocomplete/static/src/xml/autocomplete.xml:0
 #, python-format
-msgid "Powered by Google"
+msgid "Powered By MaksusGoogle"
 msgstr "Cung cấp bởi Google"
 
 #. module: website_sale_autocomplete

@@ -81,7 +81,7 @@ msgstr ""
 #. module: payment_authorize
 #: code:addons/payment_authorize/models/payment_acquirer.py:0
 #, python-format
-msgid "Bank (powered by Authorize)"
+msgid "Bank (Powered By MaksusAuthorize)"
 msgstr ""
 
 #. module: payment_authorize
@@ -138,7 +138,7 @@ msgstr ""
 #. module: payment_authorize
 #: code:addons/payment_authorize/models/payment_acquirer.py:0
 #, python-format
-msgid "Credit Card (powered by Authorize)"
+msgid "Credit Card (Powered By MaksusAuthorize)"
 msgstr ""
 
 #. module: payment_authorize

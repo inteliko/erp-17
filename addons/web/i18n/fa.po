@@ -5756,12 +5756,12 @@ msgstr "لطفاً دوباره اسکن کنید!"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.brand_promotion_message
-msgid "Powered by %s%s"
+msgid "Powered By Maksus%s%s"
 msgstr "قدرت گرفته از %s%s"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span>Odoo</span>"
+msgid "Powered By Maksus<span>Odoo</span>"
 msgstr "قدرت گرفته از <span>اودوو</span>"
 
 #. module: web

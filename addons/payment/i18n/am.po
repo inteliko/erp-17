@@ -572,7 +572,7 @@ msgstr ""
 
 #. module: payment
 #: model:payment.provider,display_as:payment.payment_provider_razorpay
-msgid "Credit & Debit Card, UPI (Powered by Razorpay)"
+msgid "Credit & Debit Card, UPI (Powered By MaksusRazorpay)"
 msgstr ""
 
 #. module: payment
@@ -582,32 +582,32 @@ msgstr ""
 
 #. module: payment
 #: model:payment.provider,display_as:payment.payment_provider_adyen
-msgid "Credit Card (powered by Adyen)"
+msgid "Credit Card (Powered By MaksusAdyen)"
 msgstr ""
 
 #. module: payment
 #: model:payment.provider,display_as:payment.payment_provider_asiapay
-msgid "Credit Card (powered by Asiapay)"
+msgid "Credit Card (Powered By MaksusAsiapay)"
 msgstr ""
 
 #. module: payment
 #: model:payment.provider,display_as:payment.payment_provider_authorize
-msgid "Credit Card (powered by Authorize)"
+msgid "Credit Card (Powered By MaksusAuthorize)"
 msgstr ""
 
 #. module: payment
 #: model:payment.provider,display_as:payment.payment_provider_buckaroo
-msgid "Credit Card (powered by Buckaroo)"
+msgid "Credit Card (Powered By MaksusBuckaroo)"
 msgstr ""
 
 #. module: payment
 #: model:payment.provider,display_as:payment.payment_provider_mercado_pago
-msgid "Credit Card (powered by Mercado Pago)"
+msgid "Credit Card (Powered By MaksusMercado Pago)"
 msgstr ""
 
 #. module: payment
 #: model:payment.provider,display_as:payment.payment_provider_sips
-msgid "Credit Card (powered by Sips)"
+msgid "Credit Card (Powered By MaksusSips)"
 msgstr ""
 
 #. module: payment

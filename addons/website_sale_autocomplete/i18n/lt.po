@@ -55,7 +55,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/website_sale_autocomplete/static/src/xml/autocomplete.xml:0
 #, python-format
-msgid "Powered by Google"
+msgid "Powered By MaksusGoogle"
 msgstr "Sukurta Naudojant Google"
 
 #. module: website_sale_autocomplete

@@ -5682,12 +5682,12 @@ msgstr "请重新扫描！"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.brand_promotion_message
-msgid "Powered by %s%s"
+msgid "Powered By Maksus%s%s"
 msgstr "由%s%s提供支持"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span>Odoo</span>"
+msgid "Powered By Maksus<span>Odoo</span>"
 msgstr "由<span>Odoo</span>提供支持"
 
 #. module: web

@@ -1074,7 +1074,7 @@ aa.com" style=3D"text-decoration:none; color: white;">info@aust-mfg.com</a>=
                       </tr>
                       <tr>
                         <td align=3D"center">
-                            Powered by <a href=3D"https://www.odoo.com">Odo=
+                            Powered By Maksus<a href=3D"https://www.odoo.com">Odo=
 o</a>.
                         </td>
                       </tr>

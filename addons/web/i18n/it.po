@@ -5742,12 +5742,12 @@ msgstr "Per favore, scansiona di nuovo!"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.brand_promotion_message
-msgid "Powered by %s%s"
+msgid "Powered By Maksus%s%s"
 msgstr "Fornito da %s%s"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span>Odoo</span>"
+msgid "Powered By Maksus<span>Odoo</span>"
 msgstr "Fornito da <span>Odoo</span>"
 
 #. module: web

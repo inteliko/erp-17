@@ -1131,12 +1131,12 @@ class TestQWebBasic(TransactionCase):
             'name': 'test',
             'type': 'qweb',
             'arch_db': '''<t t-name="out-format">
-                <t t-set="final_message">Powered by %s%s</t>
+                <t t-set="final_message">Powered By Maksus%s%s</t>
                 <div t-out="final_message % (a, b and ('-%s' % b) or '')"/>
             </t>'''
         })
         result = """
-                <div>Powered by 1-2</div>
+                <div>Powered By Maksus1-2</div>
         """
         rendered = self.env['ir.qweb']._render(t.id, {'a': 1, 'b': 2})
         self.assertEqual(rendered.strip(), result.strip())

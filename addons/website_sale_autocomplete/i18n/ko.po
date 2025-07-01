@@ -57,8 +57,8 @@ msgstr "Google 플레이스 API 키"
 #. odoo-javascript
 #: code:addons/website_sale_autocomplete/static/src/xml/autocomplete.xml:0
 #, python-format
-msgid "Powered by Google"
-msgstr "Powered by Google"
+msgid "Powered By MaksusGoogle"
+msgstr "Powered By MaksusGoogle"
 
 #. module: website_sale_autocomplete
 #: model:ir.model,name:website_sale_autocomplete.model_website

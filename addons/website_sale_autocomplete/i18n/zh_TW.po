@@ -57,7 +57,7 @@ msgstr "Google Places API 密鑰"
 #. odoo-javascript
 #: code:addons/website_sale_autocomplete/static/src/xml/autocomplete.xml:0
 #, python-format
-msgid "Powered by Google"
+msgid "Powered By MaksusGoogle"
 msgstr "由 Google 提供"
 
 #. module: website_sale_autocomplete
